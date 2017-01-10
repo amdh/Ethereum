@@ -1,0 +1,21 @@
+{
+  "generator-fountain-react": {
+    "version": "1.0.0-rc1",
+    "props": {
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "modules": "webpack",
+      "resolved": "C:\\Users\\Amruta\\AppData\\Roaming\\npm\\node_modules\\generator-fountain-webapp\\node_modules\\generator-fountain-react\\generators\\app\\index.js",
+      "framework": "react",
+      "namespace": "fountain-react",
+      "ci": [],
+      "css": "scss",
+      "js": "babel",
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  }
+}
